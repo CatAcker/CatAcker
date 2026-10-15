@@ -1,15 +1,15 @@
 <!-- ========================================================= -->
-<!--                 CATHRYN MARAIS — GITHUB                 -->
+<!--                 CATHERINA MARAIS — GITHUB                 -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Cathryn%20Marais&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=55"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Catherina%20Marais&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=55"
   width="100%"
 />
 
-# 👋 Hey, I'm Cathryn
+# 👋 Hey, I'm Catherina
 
 ### Software Engineer · Front-End Developer · UI/UX Enthusiast
 
